@@ -14,7 +14,7 @@ category: FAQ
 
 不是必须的！请查阅 [“不使用 ES6”](/docs/react-without-es6.html) 以了解更多信息。
 
-### 怎样才能在 JSX 中编写注释？ {#how-can-i-write-comments-in-jsx}
+### 怎样才能在 JSX 中编写注释,呵呵？ {#how-can-i-write-comments-in-jsx}
 
 ```jsx
 <div>
